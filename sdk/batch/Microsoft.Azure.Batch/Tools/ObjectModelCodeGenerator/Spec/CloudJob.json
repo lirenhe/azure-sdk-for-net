@@ -300,6 +300,17 @@
             "UnboundAccess": "read,write"
           },
           "Value": null
+        },
+        {
+          "Key": {
+            "Type": "bool?",
+            "Name": "AllowTaskPreemption",
+            "SummaryComment": "abc",
+            "RemarksComment": "def",
+            "BoundAccess": "read,write",
+            "UnboundAccess": "read,write"
+          },
+          "Value": null
         }
       ]
     }
